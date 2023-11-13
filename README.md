@@ -38,7 +38,8 @@
 
 <br clear="both">
 
-<h2 align="left">Knowledges:</h2>
+---
+<h2 align="center">Knowledges</h2>
 
 
 ###
@@ -77,25 +78,21 @@
 <p align="center">🌱 Always growing: currently diving into Spring Boot and dedicating my free time to personal projects.</p>
 
 
-###
+### 
+---
+<h2 align="center">Life Beyond Code 🌟</h2>
 
-<div align="center">
+<img height="300"  align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29pc216bngxOWwwNTJja2pqZWVhNGhxbWdycTk2dzh1Zm9jMm1mYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
+<div align="left">
   <a href="https://open.spotify.com/user/31teltnmrth4azqptz5xg53btabm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31teltnmrth4azqptz5xg53btabm&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31teltnmrth4azqptz5xg53btabm&count=5&unique=false" alt="Spotify recently played" />
   </a>
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29pc216bngxOWwwNTJja2pqZWVhNGhxbWdycTk2dzh1Zm9jMm1mYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
 </div>
-
-###
-
+<br>
 <p align="center">☕ Coffee lover, 🎸 rock music aficionado, and 🎮 video game enthusiast.</p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/baxx1199/baxx1199/output/snake.svg" alt="Snake animation" />
+---
 
 ###
 
