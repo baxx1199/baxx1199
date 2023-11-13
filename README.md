@@ -82,7 +82,7 @@
 ---
 <h2 align="center">Life Beyond Code 🌟</h2>
 
-<img height="300"  align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29pc216bngxOWwwNTJja2pqZWVhNGhxbWdycTk2dzh1Zm9jMm1mYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
+<img height="200"  align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29pc216bngxOWwwNTJja2pqZWVhNGhxbWdycTk2dzh1Zm9jMm1mYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
 <div align="left">
   <a href="https://open.spotify.com/user/31teltnmrth4azqptz5xg53btabm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31teltnmrth4azqptz5xg53btabm&count=5&unique=false" alt="Spotify recently played" />
