@@ -28,6 +28,10 @@
   <a href="https://www.facebook.com/Baxx.11.99" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
+  <a href="https://baxx1199.github.io/portafolio/" target="_blank">
+    <img src="https://badgen.net/badge/%20/portafolio/gray?icon=github" height="35" alt="portafolio logo"  />
+  </a>
+  
 </div>
 </br>
 
@@ -82,7 +86,7 @@
 ---
 <h2 align="center">Life Beyond Code 🌟</h2>
 
-<img height="300"  align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29pc216bngxOWwwNTJja2pqZWVhNGhxbWdycTk2dzh1Zm9jMm1mYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
+<img height="200"  align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29pc216bngxOWwwNTJja2pqZWVhNGhxbWdycTk2dzh1Zm9jMm1mYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
 <div align="left">
   <a href="https://open.spotify.com/user/31teltnmrth4azqptz5xg53btabm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31teltnmrth4azqptz5xg53btabm&count=5&unique=false" alt="Spotify recently played" />
